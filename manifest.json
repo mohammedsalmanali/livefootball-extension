@@ -1,0 +1,15 @@
+{
+    "name": "Football Live Fixtures",
+    "version": "1.0.0",
+    "description":"This is an extension to get live football results and standings",
+    "manifest_version":3,
+    "author": "Mohammed Salman Ali",
+    "icons":{"128": "football.png"},
+    "action":{
+        "default_icon":"football.png",
+        "default_popup": "index.html",
+        "default_title": "Live Football Fixtures"
+    },
+    "permissions":["activeTab"]
+       
+}

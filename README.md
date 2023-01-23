@@ -1,1 +1,1 @@
-# livefootball-extension
+# football-extension
