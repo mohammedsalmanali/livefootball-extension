@@ -1,6 +1,6 @@
 # livefootball-extension
 
-A browser extension that displays today's football fixtures of selected matches.
+A browser extension that displays present day's football fixtures of selected matches.
 
 How to install this extension?
 
